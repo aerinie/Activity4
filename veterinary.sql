@@ -37,3 +37,4 @@ CREATE TABLE doctors (
     phone VARCHAR(15),
     email VARCHAR(100)
 );
+
